@@ -6,6 +6,6 @@
 - 💞️ I’m looking to collaborate on projects involving financial analysis, machine learning models, and quantitative trading strategies.
 - 📫 How to reach me: [https://www.linkedin.com/in/juan-antonio-mugica/]
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I believe in a Growth Mindset – I think everything can be learned with dedication!
+- ⚡ Philosophy: I believe in a Growth Mindset – I think everything can be learned with dedication!
 
 ---
