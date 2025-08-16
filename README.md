@@ -1,11 +1,17 @@
 ---
 
-- 👋 Hi, I’m @Antonio-IF 
-- 👀 I’m a Financial Engineer interested in financial analysis, stock market, trading, quantitative analysis, data science, machine learning, deep learning, and credit modeling.
-- 🌱 I’m currently learning advanced credit models and exploring new applications of deep learning in finance.
-- 💞️ I’m looking to collaborate on projects involving financial analysis, machine learning models, and quantitative trading strategies.
-- 📫 How to reach me: [https://www.linkedin.com/in/juan-antonio-mugica/]
-- 😄 Pronouns: He/Him
-- ⚡ Philosophy: I believe in a Growth Mindset – I think everything can be learned with dedication!
+👋 Hi, I’m @Antonio-IF
+
+🎯 Aspiring Data Analyst with experience as a Credit Specialist, combining financial expertise with strong data skills.
+
+📊 Skilled in Python, SQL, Power BI, Machine Learning, Deep Learning, Data Visualization, and Credit Risk Modeling.
+
+🌱 Currently developing advanced credit models and exploring deep learning applications in finance and analytics.
+
+💼 Open to roles in Data Analysis and related fields where I can apply my analytical, technical, and financial skills to drive insights and decision-making.
+
+📫 Connect with me on LinkedIn
+
+⚡ Philosophy: Growth Mindset — everything can be learned with dedication and persistence.
 
 ---
