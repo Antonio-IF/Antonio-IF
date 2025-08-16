@@ -1,5 +1,3 @@
----
-
 👋 Hi, I’m @Antonio-IF
 
 🎯 Aspiring Data Analyst with experience as a Credit Specialist, combining financial expertise with strong data skills.
@@ -10,8 +8,6 @@
 
 💼 Open to roles in Data Analysis and related fields where I can apply my analytical, technical, and financial skills to drive insights and decision-making.
 
-📫 Connect with me on LinkedIn
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/juan-antonio-mugica/)
 
-⚡ Philosophy: Growth Mindset — everything can be learned with dedication and persistence.
-
----
+⚡ **Philosophy:** Growth Mindset — everything can be learned with dedication and persistence.
