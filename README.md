@@ -15,10 +15,6 @@
 - Machine Learning & Deep Learning
 - Credit Risk Modeling
 
-🌱 Currently working on:
-- Advanced credit scoring models
-- Deep learning applications in finance and analytics
-
 💼 **Open to opportunities** in Data Analysis and related fields where I can apply my analytical, technical, and financial skills to drive insights and decision-making.
 
 ⚡ **Philosophy:** *Growth Mindset* — everything can be learned with dedication and persistence.
@@ -61,4 +57,3 @@ Feel free to reach out or explore my work:
 - GitHub Repositories (below)
 
 ---
-
