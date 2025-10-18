@@ -46,7 +46,7 @@ Explore some of the key projects I've contributed to as part of my professional 
 ### 🧠 Credit Risk Modeling
 - **[Credit Models Project II](https://github.com/Antonio-IF/MC_P2)**  
   Development of predictive models for credit scoring and risk assessment.
-- **[Credit Models Project III](https://github.com/diegotita4/Project3CreditModels)**  
+- **[Credit Models Project III](https://github.com/Antonio-IF/Project3CreditModels)**  
   Advanced modeling techniques applied to financial datasets.
 ---
 
