@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-🎯 **Aspiring Data Analyst** with a background as a Credit Specialist, blending financial expertise with strong technical skills.
+🎯 **Data Analyst** with a background as a Credit Specialist, blending financial expertise with strong technical skills.
 
 📊 Proficient in:
 - Python & SQL
