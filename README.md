@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Antonio Mugica
+[![roadmap.sh](https://roadmap.sh/card/wide/68705fc0dae46688ecf898ec?variant=dark&roadmaps=data-analyst%2Csql%2Cpython%2Cdata-engineer)](https://roadmap.sh)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-antonio-mugica/)
 ![Profile Views](https://komarev.com/ghpvc/?username=Antonio-IF&color=brightgreen)
-
 ---
 
 ## 🙋‍♂️ About Me
